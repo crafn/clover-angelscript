@@ -1,6 +1,6 @@
 clover-angelscript
 ==================
 
-Modified version of AngelScript, suitable for Project Clover. Changes include
+Modified version of AngelScript scripting library, suitable for Project Clover. Changes include
 
-* reverse destruction order
+* reverse member destruction order
